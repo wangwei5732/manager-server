@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: manager-server
+server:
+  port: 8888
+pi4j:
+  trafficLight:
+    r: 23
+    y: 24
+    g: 25
